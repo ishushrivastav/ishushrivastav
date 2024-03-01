@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishushrivastav" alt="ishushrivastav" /></a> </p>
 
-- 🔭 I’m currently working on **hyroid Disease Detection**
+- 🔭 I’m currently working on **Thyroid Disease Detection**
 
 - 🌱 I’m currently learning **Machine Learning And Front-End Development**
 
@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/rishu-shrivastav-176ba5278**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cDSU3mMN2BW2aVPrmn65VoM4Fe7yiWad/edit?usp=drive_link&ouid=101311834260991030529&rtpof=true&sd=true](https://docs.google.com/document/d/1cDSU3mMN2BW2aVPrmn65VoM4Fe7yiWad/edit?usp=drive_link&ouid=101311834260991030529&rtpof=true&sd=true)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1oR6nBdCmQyGe9jeL-VT4rsHzfODjzQEL/view?usp=drivesdk
 - ⚡ Fun fact **Ada Lovelace, the first computer programmer, was a woman**
 
 <h3 align="left">Connect with me:</h3>
