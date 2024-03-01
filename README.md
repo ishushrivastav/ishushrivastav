@@ -15,12 +15,21 @@
 
 - 📫 How to reach me **www.linkedin.com/in/rishu-shrivastav-176ba5278**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1oR6nBdCmQyGe9jeL-VT4rsHzfODjzQEL/view?usp=drivesdk
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oR6nBdCmQyGe9jeL-VT4rsHzfODjzQEL/view?usp=drivesdk](https://drive.google.com/file/d/1oR6nBdCmQyGe9jeL-VT4rsHzfODjzQEL/view?usp=drivesdk)
+
 - ⚡ Fun fact **Ada Lovelace, the first computer programmer, was a woman**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://dev.to/rishushrivastav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rishushrivastav18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rishu-shrivastav-176ba5278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rishu-shrivastav-176ba5278" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/" height="30" width="40" /></a>
+<a href="https://medium.com/@rishushrivastav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishushrivastav18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
